@@ -1,0 +1,30 @@
+
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥Âáàıÿÿÿÿ
+wsquid:S00115u"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™×·¢üÿÿÿÿ
+^squid:S00112F"FDefine and throw a dedicated exception instead of using a generic one.(¡…ÌÉ
+wsquid:S00115s"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ä‚Â¯şÿÿÿÿ
+xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğÙºàÿÿÿÿÿ
+xsquid:S00115‡"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„é±şÿÿÿÿ
+wsquid:S00115~"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¿ûÂ¤ùÿÿÿÿ
+rsquid:S00115}"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( …ê
+xsquid:S00115…"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•£âÒøÿÿÿÿ
+Fsquid:S00108f")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ
+wsquid:S00115{"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(é±îùùÿÿÿÿ
+Ssquid:UnusedPrivateMethodN".Remove this unused private "playChord" method.(ÛÈÛß
+ssquid:S00115€"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤‹êİ
+xsquid:S00115ƒ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òÖò—øÿÿÿÿ
+rsquid:S00115p"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ı§„ä
+wsquid:S00115y"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŞèÕšúÿÿÿÿ
+xsquid:S00115†"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(É÷Š„úÿÿÿÿ
+esquid:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ
+tsquid:S1450"XRemove the "midiSynth" field and declare it as a local variable in the relevant methods.(àĞëÎùÿÿÿÿ
+Rsquid:UnusedPrivateMethodJ"-Remove this unused private "playNote" method.(ÂŞ¢ê
+ksquid:S1450"TRemove the "instr" field and declare it as a local variable in the relevant methods.(ğó®ä
+Fsquid:S00108]")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ
+rsquid:S00115z"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤¼•³
+rsquid:S00115|"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´Àø°
+bsquid:S2142]"FEither re-interrupt this method or rethrow the "InterruptedException".(‚¦¡ûûÿÿÿÿ
+ssquid:S00115‚"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ë¼û
+xsquid:S00115„"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ª–ƒÄúÿÿÿÿ
+gsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(ƒõá€ûÿÿÿÿ
+bsquid:S2142f"FEither re-interrupt this method or rethrow the "InterruptedException".(‚¦¡ûûÿÿÿÿ
